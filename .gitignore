@@ -1,0 +1,9 @@
+# rejected renders kept by render.sh for comparison, never archived
+*-backup-*.png
+# credentials must never land here
+*.sid
+*cookie*
+*.env
+# OS and editor noise
+.DS_Store
+*.swp
