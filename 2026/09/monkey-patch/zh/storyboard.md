@@ -1,9 +1,13 @@
 # Storyboard: 猴子补丁
 
-- Title (above the grid): 猴子补丁
-- Dialogue language: Chinese (zh), full-width punctuation
+Rendered as a 小红书 vertical 1×4 strip (9:16) for mobile — the converged 悟空定身法 design,
+re-laid-out from the original 2×2 (kept as a `-backup-` render) after the vertical layout landed.
+
+- Title (above the strip): 猴子补丁
+- Dialogue language: Chinese (zh), full-width punctuation, rounded hand-lettered comic style
 - Accent color: orange #FF6B35, only on the "定" talisman patch and the 失败/通过 screen labels;
-  strongest in panel 3. Characters stay black and white.
+  strongest in the turn panel. Characters stay black and white.
+- Layout: vertical 1×4 strip (9:16). Panels stacked top to bottom in 起承转合 order.
 - Roles: 程序员 (glasses); 悟空 (classic 金箍 hoop with two upturned curls at the forehead,
   small round monkey ears, long curly tail, short tiger-skin wrap, 金箍棒 with a band at each
   end; rides a 筋斗云 cloud in panel 2); 同事们 (crowd with backpacks)
