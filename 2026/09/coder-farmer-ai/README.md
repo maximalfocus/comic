@@ -26,3 +26,4 @@ but it rhymes.
 
 - en: Substack, 2026-09-11 — https://maximalfocus.substack.com/p/the-farmer-in-code-farmer
 - zh: 小红书 (maximalfocus), 2026-09-12, under review at publication time
+- zh: WeChat 公众号, 原创漫画 (4 panels + cover), published 2026-09-14 21:00 (定时发表)
