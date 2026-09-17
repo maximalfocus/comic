@@ -10,7 +10,7 @@ but it rhymes.
   original Chinese working notes (`source.md`, `analysis.md`, `characters/`) and a
   `coder-farmer-ai.pdf` export from the original run.
 - zh: 码农的「农」 — a culturally adapted Chinese version (not a translation), converged via a
-  Claude+Codex peerreview brainstorm. Rendered as a 小红书 vertical 1×4 strip. It recasts the
+  Claude+Codex peerreview brainstorm. Rendered as a vertical 1×4 strip. It recasts the
   allegory in 悯农's「春种一粒粟，秋收万颗子」: hand-reaping mature wheat → a harvester → today's 码农
   seeing AI on every screen → one 码农 running the machine while the rest leave with boxes.
 
@@ -20,10 +20,8 @@ but it rhymes.
 |---|---|---|
 | Field work | 1800s farmers hoeing, then a tractor | 秋收 hand-reaping wheat, then a 收割机 |
 | The turn | a badge reads "CODE FARMER" | 工牌 reads「码农」, AI on all six screens, 被「优化」 |
-| Layout | 2×2 grid, 4:3 (Substack) | vertical 1×4 strip, 9:16 (小红书) |
+| Layout | 2×2 grid, 4:3 (Substack) | vertical 1×4 strip, 9:16 (mobile) |
 
 ## Published
 
 - en: Substack, 2026-09-11 — https://maximalfocus.substack.com/p/the-farmer-in-code-farmer
-- zh: 小红书 (maximalfocus), 2026-09-12, under review at publication time
-- zh: WeChat 公众号, 原创漫画 (4 panels + cover), published 2026-09-14 21:00 (定时发表)

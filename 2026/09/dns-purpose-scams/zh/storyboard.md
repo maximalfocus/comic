@@ -11,7 +11,7 @@ sign), with a 被钓鱼 victim the English lacked.
   and the 闸机 latch; panel 3 carries the most orange. Characters and alleys stay black and white.
 - Roles: 路牌师傅 (袖套、刻刀); 普通人 (素面无道具，同一造型兼作店主与路人); 骗子们 (墨镜，一排算一个)
 - Caption (below the strip): 系统的目的，就是它实际在做的事。
-- Layout: 小红书 vertical 1×4 strip (9:16). Mirror staging: panel 3 repeats panel 1's crossroads;
+- Layout: vertical 1×4 strip (9:16). Mirror staging: panel 3 repeats panel 1's crossroads;
   panel 4 repeats panel 2's row, gate replacing the queue.
 
 ## Panels (top to bottom, 起承转合)

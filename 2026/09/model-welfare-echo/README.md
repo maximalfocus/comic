@@ -15,4 +15,3 @@ trainer is doing the talking → the trainer takes credit. One accent: orange #F
 ## Published
 
 - EN: Substack, web only, no email, 2026-09-17 — https://maximalfocus.substack.com/p/it-said-so-itself
-- ZH: WeChat 公众号, 原创漫画 (4 panels + cover), 定时发表 2026-09-18 21:00, appmsgid 100000344

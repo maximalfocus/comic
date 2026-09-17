@@ -24,7 +24,3 @@ mirror, the orange threads and spools, the empty chair, and the punchline's limi
 - zh: 三人行 (vertical 1×4 strip, 9:16, for mobile)
 
 `en/peerreview-findings.md` records the cross-model review that chose this concept.
-
-## Published
-
-- zh: WeChat 公众号 (4 panels + cover), published 2026-09-13 21:06

@@ -1,6 +1,6 @@
 # Storyboard: 猴子补丁
 
-Rendered as a 小红书 vertical 1×4 strip (9:16) for mobile — the converged 悟空定身法 design,
+Rendered as a vertical 1×4 strip (9:16) for mobile — the converged 悟空定身法 design,
 re-laid-out from the original 2×2 (kept as a `-backup-` render) after the vertical layout landed.
 
 - Title (above the strip): 猴子补丁

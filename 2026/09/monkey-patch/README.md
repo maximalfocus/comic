@@ -20,7 +20,3 @@ accent on the patch.
 ## Published
 
 - en: Substack, web only, no email, 2026-09-12 — https://maximalfocus.substack.com/p/monkey-patch
-- zh: 小红书 (maximalfocus), 2026-09-12 00:40. Published as the original 4:3 2×2 (before the vertical
-  layout landed). The zh comic here was later re-laid-out as a 小红书 vertical 1×4 strip (9:16) for
-  mobile; that vertical version was not re-published, so the live note still shows the 2×2.
-- zh: WeChat 公众号, vertical 1×4 strip as 4 panels + cover, published 2026-09-16 21:00 (定时发表)
