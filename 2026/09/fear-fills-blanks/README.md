@@ -16,7 +16,7 @@ the episode-1 cast and hoard return.
   believes it and adds more, and it ends as 「标准答案」 — 「专家终于说全了」.
 
 ## Substack
-Draft (unpublished): https://maximalfocus.substack.com/publish/post/216134310
+https://maximalfocus.substack.com/p/the-quote-has-baggage
 
 ## Published
 
