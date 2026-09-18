@@ -17,7 +17,10 @@ A long table seen from the calligrapher's side. The calligrapher stands on the n
 table, in the foreground, seen from a three-quarter back view, facing away from the reader toward
 the people across the table. The sheet of paper lies flat on the table in front of him, so its
 characters are upright and read left to right for him and for the reader, exactly as in real
-writing. The alumni stand on the far side of the table, facing the reader.
+writing. The table top and the paper are drawn flat and frontal, without perspective: the paper is
+a plain rectangle whose edges are parallel to the panel edges, and the rows of characters run
+parallel to the paper's edges, so text and paper share the same orientation. The alumni stand on
+the far side of the table, facing the reader.
 
 ## Panel Breakdown
 1. Top (Setup): calligrapher finishes 「阖家团圆」 on orange red paper; crowd across claps. 「好字！」
@@ -25,8 +28,8 @@ writing. The alumni stand on the far side of the table, facing the reader.
    「下一位，写什么？」
 3. Lower-middle (Turn): engineer across the table offers a blank orange sheet, palms together.
    「请写『需求不改』。」
-4. Bottom (Conclusion): 「需求不改」 written, ink wet; engineer's phone shows a lock-screen
-   notification card: 14:17, 产品经理, 刚刚, 需求改一下. 「……墨还没干。」
+4. Bottom (Conclusion): 「需求不改」 written, ink wet; engineer's phone shows three stacked
+   notifications from 产品经理: 「中秋快乐！」「需求改一下」「算了，还是用第一版」. No speech.
 
 ## Generation Prompt
 
@@ -38,7 +41,7 @@ palette of black, white, and a single spot orange (#FF6B35) used only for key co
 Characters are simplified stick figures with circle heads, dot eyes and single-line mouths,
 distinguished only by props. Characters stay black and white; orange is used only for the sheets
 of traditional red blessing paper (drawn flat orange) and for the app icon and badge in the phone
-notification. No shading, gradients, hatching, background fills, motion or speed lines, emphasis
+notifications. No shading, gradients, hatching, background fills, motion or speed lines, emphasis
 marks, or sound effects. Mostly blank white negative space. The image is fully opaque: a solid
 pure white (#FFFFFF) background fills the entire canvas, including the margins and gutters; no
 transparency and no alpha channel.
@@ -49,14 +52,19 @@ upright confident stance. He is not old (no bald head, no beard, no traditional 
 boyish. In every panel he stands on the near side of a long table in the foreground, seen from a
 three-quarter back view, facing away from the reader toward the people across the table. The paper
 lies flat on the table in front of him, so the brush characters are upright and read left to
-right for both him and the reader, the way a person really writes.
+right for both him and the reader, the way a person really writes. Draw the table top and the
+paper flat and frontal, with no perspective: the paper is a plain rectangle with edges parallel to
+the panel edges, and the rows of characters run exactly parallel to the paper's edges, so the
+text and the paper always share one orientation. Wherever he has just finished writing, the brush
+rests at the right end, on the last character written.
 
 Above the strip, a short hand-lettered title: 哈工大人的中秋·需求不改
 
 Top panel (Setup): A small corner label in the top-left reads "14:15 书法助兴". The calligrapher,
 seen from behind at three-quarter view, lifts his brush just after finishing the last character on
-a wide orange sheet of blessing paper; the four bold black brush characters "阖家团圆" are upright
-and readable, written left to right, and the brush tip is just above the last character "圆".
+a wide, flat, frontal orange rectangle of blessing paper; the four bold black brush characters
+"阖家团圆" sit in one straight row parallel to the paper's edges, upright and readable left to
+right, and the brush tip is just lifting off the last character "圆" at the right end.
 Across the table a few alumni face the reader, clapping. Speech bubble from the alumni: "好字！"
 
 Upper-middle panel (Development): Same staging. Across the table, an alumnus walks away happily,
@@ -71,17 +79,19 @@ protective charm. The large blank orange sheet is the boldest element of the pag
 foreground, the calligrapher's brush freezes in mid-air, head tilted in surprise. Speech bubble
 from the glasses figure: "请写『需求不改』。"
 
-Bottom panel (Conclusion): Same staging. On the table in front of the calligrapher lies the orange
-sheet with four bold black brush characters "需求不改", upright and readable left to right, ink
-still wet with a couple of small wet drops. Across the table, the glasses figure, frozen with his
-mouth open, holds his smartphone up high with the screen facing the reader, drawn large and clear.
-The phone screen is designed like a clean lock screen: a large clock "14:17" at the top, and below
-it one rounded notification card with a thin black outline. In the card's top row: a small
-rounded-square orange app icon with a white chat-bubble symbol and a small orange badge "1", then
-the sender name "产品经理" in bold black, and a small gray "刚刚" at the far right. In the card's
-second row, larger black text: "需求改一下". No brand logos. In the foreground, the calligrapher
-turns his head to the side, showing his profile, looking at the phone. Speech bubble from the
-calligrapher: "……墨还没干。"
+Bottom panel (Conclusion): Same staging. On the table in front of the calligrapher lies the flat,
+frontal orange rectangle with four bold black brush characters "需求不改" in one straight row
+parallel to the paper's edges, upright and readable left to right, ink still wet with a couple of
+small wet drops; his brush still rests on the last character "改" at the right end. Across the
+table, the glasses figure, frozen with his mouth open, holds his smartphone up high with the
+screen facing the reader, drawn large and clear. The phone screen is a clean lock screen: a clock
+"14:18" at the top, and below it three rounded notification cards stacked one above another, each
+with a thin black outline, a small rounded-square orange app icon with a white chat-bubble symbol,
+the sender "产品经理" in small bold black, and one message in larger black text. Top card:
+"中秋快乐！". Middle card: "需求改一下". Bottom card: "算了，还是用第一版". A small orange badge
+"3" sits on the top card's icon. No brand logos. In the foreground, the calligrapher has turned
+his head to the side, showing his profile, staring at the phone, speechless. No speech bubbles in
+this panel.
 
 Below the strip, a one-line hand-lettered caption: 书法能镇宅，镇不住需求。
 

@@ -4,8 +4,9 @@ Chinese-only comic, episode 8 of the HIT Singapore alumni 中秋 series (episode
 hit-* themes of 2026/09). Not posted. No waiter, and not the 1982级 alumnus.
 
 Idea: at the 14:15 书法助兴 slot, people ask for 「阖家团圆」 and 「福」; the engineer asks for
-「需求不改」 as a charm, and before the ink dries his phone shows a notification from 产品经理:
-「需求改一下」. The calligrapher is a capable middle-aged entrepreneur (revised from an old man at
+「需求不改」 as a charm, and before the ink dries his phone shows three stacked notifications from 产品经理:
+「中秋快乐！」, 「需求改一下」, 「算了，还是用第一版」 — so the requirement ends up unchanged after all.
+Panel 4 is wordless. The calligrapher is a capable middle-aged entrepreneur (revised from an old man at
 the user's request), generic, not any real person; he writes from the near side of the table so
 the characters face him the way real writing does. Accent: orange for the red blessing
 paper and the phone notification. Drafts: ../hit-noon-moon/ep8-ideas.md.
