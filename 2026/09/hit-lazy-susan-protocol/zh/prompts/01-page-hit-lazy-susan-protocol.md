@@ -16,8 +16,8 @@ Art: minimalist | Tone: neutral | Layout: four-panel vertical | Aspect: 9:16
    「多机器人抢道，卡了三个月……」
 2. Upper-middle (Development): round table with an orange lazy susan; one alumnus picks food while
    it stays still; student stares, chopsticks frozen. 「别光看，吃啊！」「……十个人一个转盘，从来不撞？」
-3. Lower-middle (Turn): student jumps up writing on an orange napkin 「有人夹菜，不转」「长辈先请」;
-   the table stares. 「找到了！饭桌礼仪！」
+3. Lower-middle (Turn): student jumps up and holds an orange napkin out toward the viewer like a
+   sign, reading 「您先请」; the table stares. 「找到了！饭桌礼仪！」
 4. Bottom (Conclusion): lab; the two robots bow to each other on both sides of the doorway, nobody
    enters; student facepalms. 「您先请。」「您先请。」
 
@@ -53,11 +53,14 @@ stays still; the other alumni wait calmly with their chopsticks lowered. The stu
 his chopsticks frozen in midair, not eating, staring intently at the turntable. Speech bubble from
 one alumnus: "别光看，吃啊！" Speech bubble from the student: "……十个人一个转盘，从来不撞？"
 
-Lower-middle panel (Turn, the strongest color emphasis): The same table. The student has sprung up
-from his chair, eyes wide and bright, writing fast with a pen on a large orange napkin held flat
-on the table. The napkin shows two short handwritten lines in black: "有人夹菜，不转" and "长辈先请".
-The orange napkin is the boldest element of the whole page. All the alumni around the table have
-stopped, their chopsticks frozen in midair, staring at him. Speech bubble from the student:
+Lower-middle panel (Turn, the strongest color emphasis): The same table. The student has sprung
+up from his chair, eyes wide and bright, and holds a large orange napkin up in front of his chest
+with both hands, turned outward toward the viewer like a protest sign, a pen still in one hand. The
+napkin is a flat upright rectangle facing the viewer squarely, not lying on the table and not
+tilted in perspective. On it, in big black handwritten characters written horizontally and
+reading upright to the viewer, are exactly three characters and nothing else: "您先请". The orange
+napkin is the boldest element of the whole page. All the alumni around the table have stopped,
+their chopsticks frozen in midair, staring at him. Speech bubble from the student:
 "找到了！饭桌礼仪！"
 
 Bottom panel (Conclusion): A small corner label in the top-left reads "周一 实验室 · 已僵持3小时".
