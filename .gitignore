@@ -1,5 +1,8 @@
 # rejected renders kept by render.sh for comparison, never archived
 *-backup-*.png
+# 公众号 panel cuts: deterministic slices of the committed strip, rebuilt with
+# `wechat.sh panels --dir <dir>`; the covers are renders and stay tracked
+panel-*.png
 # credentials must never land here
 *.sid
 *cookie*
